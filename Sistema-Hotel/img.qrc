@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/logini.png</file>
+        <file>registro_hotel.db</file>
+    </qresource>
+</RCC>
